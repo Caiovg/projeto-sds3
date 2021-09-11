@@ -21,7 +21,7 @@ public class SaleService {
 	@Autowired
 	private SaleRepository repository;
 	
-	//vaifuncionar para busca todos os vendedores, 
+	//vai funcionar para busca todos os vendedores, 
 	//e não vai mostrar varios selects no console,
 	//Mas essa vantagem so funciona pra banco de dados, que tenha poucas informações
 	//se tiver muito e melhor nem fazer, pois gera um cache na memoria
